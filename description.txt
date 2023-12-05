@@ -1,0 +1,5 @@
+int this programme i am about to explain 
+you enter an email 
+and it cheks out if the syntax of that emal is right or needs to be corrected 
+that is by true or false
+ 
